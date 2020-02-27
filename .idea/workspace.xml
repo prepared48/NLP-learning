@@ -1,7 +1,461 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3224e9d2-a370-4300-bb60-e6d171e4ef1b" name="Default Changelist" comment="" />
+    <list default="true" id="3224e9d2-a370-4300-bb60-e6d171e4ef1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jiebaRmrb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_为七百万人民请命.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_为七百万人民请命.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_五月杂感.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_五月杂感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_人民日报发刊志祝.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_人民日报发刊志祝.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_何思源图谋进攻解放区_密运物资予聊城伪军_大批反共文件一并为我查获.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_何思源图谋进攻解放区_密运物资予聊城伪军_大批反共文件一并为我查获.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_冀鲁豫日报发表社论_坚持实现荷泽治河协定.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_冀鲁豫日报发表社论_坚持实现荷泽治河协定.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_军区文工团_演出_两种作风_生动真实深受欢迎.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_军区文工团_演出_两种作风_生动真实深受欢迎.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_劳动的妇女们.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_劳动的妇女们.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_南捷签订友谊互助条约.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_南捷签订友谊互助条约.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_发刊词.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_发刊词.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_周徐白三氏飞南京_光山小组将视察中原解放区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_周徐白三氏飞南京_光山小组将视察中原解放区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国民党内五团体_声明拥护政协决议_谴责二中全会反动决议案.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国民党内五团体_声明拥护政协决议_谴责二中全会反动决议案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国民党军猛攻廿三天未逞_民主联军坚守四平街_中美报纸责国民党挑动内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国民党军猛攻廿三天未逞_民主联军坚守四平街_中美报纸责国民党挑动内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国民党军结合敌伪高唱备战_大举调动屡犯我边区_三个半月大小进攻九百余次.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国民党军结合敌伪高唱备战_大举调动屡犯我边区_三个半月大小进攻九百余次.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国民党固执花园堵口合龙_冀鲁豫人民群起抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国民党固执花园堵口合龙_冀鲁豫人民群起抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国民党当局破坏荷泽协议_蓄意放水淹我解放区_不顾七百万人民生命图逞内战阴谋_中共中央发言人表示坚决反对.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国民党当局破坏荷泽协议_蓄意放水淹我解放区_不顾七百万人民生命图逞内战阴谋_中共中央发言人表示坚决反对.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_国际公谊救护队贺斯金斯_致书杨主席致谢.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_国际公谊救护队贺斯金斯_致书杨主席致谢.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_巴黎四强外长会议_对意和约获原则协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_巴黎四强外长会议_对意和约获原则协议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_希特勒式的_神经病.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_希特勒式的_神经病.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_平汉川陕道上国民党军运忙.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_平汉川陕道上国民党军运忙.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_开封会谈宣告停顿_边府决定派员赴京协商.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_开封会谈宣告停顿_边府决定派员赴京协商.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_张市筹设兴华实业公司_外区资本家踊跃投资.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_张市筹设兴华实业公司_外区资本家踊跃投资.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_我以粮布输入津石_沿途迭遭国民党军拦劫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_我以粮布输入津石_沿途迭遭国民党军拦劫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_新乡小组调处豫东冲突.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_新乡小组调处豫东冲突.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_新华书店将出三种期刊.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_新华书店将出三种期刊.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_新闻界的祝贺.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_新闻界的祝贺.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_晋绥各部队紧张生产_野战兵团在绥蒙区垦荒.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_晋绥各部队紧张生产_野战兵团在绥蒙区垦荒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_毛主席的像片_发生在北平_小学的故事.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_毛主席的像片_发生在北平_小学的故事.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_沁县阎军特务横行_殴劫我联络组人员_我已向东沁线小组提出抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_沁县阎军特务横行_殴劫我联络组人员_我已向东沁线小组提出抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_法国宪草复决失败原因.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_法国宪草复决失败原因.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_煤矿工潮绵延四旬_美工业陷停顿状态_芝加哥华盛顿等城已黑暗无光.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_煤矿工潮绵延四旬_美工业陷停顿状态_芝加哥华盛顿等城已黑暗无光.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_片山组阁搁浅_日共力主联合内阁.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_片山组阁搁浅_日共力主联合内阁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_瑞华银行_今日召开股东大会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_瑞华银行_今日召开股东大会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_联总救济物资一部先后运到我区发放_群众认为物资微少，不足弥补八年创伤.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_联总救济物资一部先后运到我区发放_群众认为物资微少，不足弥补八年创伤.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_艾森豪威尔_过京沪即将赴日.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_艾森豪威尔_过京沪即将赴日.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_苏评论家马西努著论_痛斥阎锡山勾结日寇_美军帮助日阎进攻解放区，不符莫斯科二国决议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_苏评论家马西努著论_痛斥阎锡山勾结日寇_美军帮助日阎进攻解放区，不符莫斯科二国决议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_英勇的四平街保卫战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_英勇的四平街保卫战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_豫北形势紧张声中_蒋介石飞新乡_中央社对其活动隐匿不报.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_豫北形势紧张声中_蒋介石飞新乡_中央社对其活动隐匿不报.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-15_边区积极建设交通_修设公路电话.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-15_边区积极建设交通_修设公路电话.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_一个欢快的茶会_庆祝本报创刊_磐石同志再三要求大家多帮助.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_一个欢快的茶会_庆祝本报创刊_磐石同志再三要求大家多帮助.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_今日的_丛台_记边区卫生局流诊所.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_今日的_丛台_记边区卫生局流诊所.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_何应钦谎言骗人_力图掩盖布置内战阴谋_新华社列举事实驳斥.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_何应钦谎言骗人_力图掩盖布置内战阴谋_新华社列举事实驳斥.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_冀鲁豫行署对国民党堵口阴谋_通电全国为民请命_倘国民党仍不悔悟决奋起筑堤自救.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_冀鲁豫行署对国民党堵口阴谋_通电全国为民请命_倘国民党仍不悔悟决奋起筑堤自救.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_华中国民党军集结待命进攻_粟裕呼吁国人立即制止_我已一再忍让，现在只有坚决实行自卫。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_华中国民党军集结待命进攻_粟裕呼吁国人立即制止_我已一再忍让，现在只有坚决实行自卫。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_四平街我军阵地屹立如山_国民党军进退两难_前线指战员坚信：_四平街永远是我们的_！.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_四平街我军阵地屹立如山_国民党军进退两难_前线指战员坚信：_四平街永远是我们的_！.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_国民党军三路分兵_进犯陇海以北解放区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_国民党军三路分兵_进犯陇海以北解放区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_增加工资减少工时后_淄博矿区煤产倍增_平绥铁路工人反奸后工作积极.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_增加工资减少工时后_淄博矿区煤产倍增_平绥铁路工人反奸后工作积极.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_太行十五县县议会上_热烈审查政府工作_议员一致赞扬政府德政踊跃提供各种建设意见.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_太行十五县县议会上_热烈审查政府工作_议员一致赞扬政府德政踊跃提供各种建设意见.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_晋察冀边区_成立长芦盐务管理局.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_晋察冀边区_成立长芦盐务管理局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_永年救济工作受到伪军阻扰.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_永年救济工作受到伪军阻扰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_淄博专区_培养大批师资.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_淄博专区_培养大批师资.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_纪念先烈勋功伟绩_邯郸长治建陵园_济宁烈士陵园可于年底落成.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_纪念先烈勋功伟绩_邯郸长治建陵园_济宁烈士陵园可于年底落成.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_美海军二千登陆葫芦岛_帮助国民党运兵内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_美海军二千登陆葫芦岛_帮助国民党运兵内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_致本报贺电一束.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_致本报贺电一束.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_苏皖冀晋鲁豫各地战云密布_国民党策动全面内战_倾两师之众进迫我定远县境兖州伪逆吴化文部二千余出犯被击退.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_苏皖冀晋鲁豫各地战云密布_国民党策动全面内战_倾两师之众进迫我定远县境兖州伪逆吴化文部二千余出犯被击退.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_解放区新闻记者联合会通电_抗议当局制造西安血案_号召新闻、法律界团结一致，迅速粉碎反动派毒辣阴谋。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_解放区新闻记者联合会通电_抗议当局制造西安血案_号召新闻、法律界团结一致，迅速粉碎反动派毒辣阴谋。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-16_边区邮务发展_邮务职工筹委会成立.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-16_边区邮务发展_邮务职工筹委会成立.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_《新大众》_发行增至八千余份.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_《新大众》_发行增至八千余份.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_东京粮食恐慌_饥民千余拥入皇宫_日共主张发放皇室存粮.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_东京粮食恐慌_饥民千余拥入皇宫_日共主张发放皇室存粮.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_冀鲁豫边沿区民兵组织联防_打击国特土匪袭扰.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_冀鲁豫边沿区民兵组织联防_打击国特土匪袭扰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_制止国民党制造水灾_冀鲁豫决定修堤自卫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_制止国民党制造水灾_冀鲁豫决定修堤自卫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_国民党倒行逆施不救灾民救伪军_边区救济分会通电全国抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_国民党倒行逆施不救灾民救伪军_边区救济分会通电全国抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_国民党军狡黠无耻_密征日俘残杀同胞.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_国民党军狡黠无耻_密征日俘残杀同胞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_国民党区灾荒严重_大小官大发救济财.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_国民党区灾荒严重_大小官大发救济财.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_坚持荷泽治河协议_边府代表已赴京.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_坚持荷泽治河协议_边府代表已赴京.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_太行新解放区_减租已至紧张阶段_夏收前加紧群运突击，以求贯彻。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_太行新解放区_减租已至紧张阶段_夏收前加紧群运突击，以求贯彻。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_建设边区新工业_化学工厂即将开工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_建设边区新工业_化学工厂即将开工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_德苏军占领区_建立人民统一战线.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_德苏军占领区_建立人民统一战线.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_我四平街保卫战胜利声中_国民党军士兵厌战_哨兵携带美式武器向我投诚战士班长夜话内战何时是尽头.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_我四平街保卫战胜利声中_国民党军士兵厌战_哨兵携带美式武器向我投诚战士班长夜话内战何时是尽头.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_扶植私人资本发展_邯郸汽车、面粉等公营公司_全部转归私人经营.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_扶植私人资本发展_邯郸汽车、面粉等公营公司_全部转归私人经营.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_把悲痛变为力量，与人民密切结合！_邓小平同志四月二十一日在党内干部追悼王若飞同志等殉难的会上的报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_把悲痛变为力量，与人民密切结合！_邓小平同志四月二十一日在党内干部追悼王若飞同志等殉难的会上的报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_文化界的祝贺.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_文化界的祝贺.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_文汇报指责国民党_用美国武器杀中国人民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_文汇报指责国民党_用美国武器杀中国人民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_新华社揭露反动派挑动内战_国民党当局理屈词穷.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_新华社揭露反动派挑动内战_国民党当局理屈词穷.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_晋绥政府广施救济_扶助新区群众安家.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_晋绥政府广施救济_扶助新区群众安家.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_本市西门里群众_斗争汉奸侯天喜_在群众压力下侯逆认错.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_本市西门里群众_斗争汉奸侯天喜_在群众压力下侯逆认错.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_河北国民党军大肆抓丁扩兵.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_河北国民党军大肆抓丁扩兵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_法国会选举将届_法共号召保卫民主.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_法国会选举将届_法共号召保卫民主.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_济宁工人翻身后_竞赛生产劳资都满意.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_济宁工人翻身后_竞赛生产劳资都满意.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_济宁日报创刊.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_济宁日报创刊.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_联总代表勘察沁河堵口_国民党军竟开枪阻扰.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_联总代表勘察沁河堵口_国民党军竟开枪阻扰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_苏皖国民党军侵陷夏邑城_中原冀中我军被迫自卫_收复张家河、冯家口车站等地.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_苏皖国民党军侵陷夏邑城_中原冀中我军被迫自卫_收复张家河、冯家口车站等地.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-17_邯郸的贫民贷款.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-17_邯郸的贫民贷款.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_东京两千妇女饥民再赴皇宫示威索粮_并要求建立日本民主政府.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_东京两千妇女饥民再赴皇宫示威索粮_并要求建立日本民主政府.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_人间地狱_永年城.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_人间地狱_永年城.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_伊朗内政谈判停顿_阿塞拜疆总理返大不里士.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_伊朗内政谈判停顿_阿塞拜疆总理返大不里士.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_刘茂恩妄图消灭豫东解放区_计划书中阴谋毕露_命令规定：番号用代号军衣换便衣.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_刘茂恩妄图消灭豫东解放区_计划书中阴谋毕露_命令规定：番号用代号军衣换便衣.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_利民煤矿职工_红五月中发明多.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_利民煤矿职工_红五月中发明多.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_可耻的大公报社论_重庆新华日报四月十八日社论.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_可耻的大公报社论_重庆新华日报四月十八日社论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_四平街战事无变化_昌图东北我克报台山_刘伯承将军等电慰坚守四平街英雄.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_四平街战事无变化_昌图东北我克报台山_刘伯承将军等电慰坚守四平街英雄.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_太行争取穿衣自给_种棉超过百五十万亩.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_太行争取穿衣自给_种棉超过百五十万亩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_太行行署指示各专县_防备风雹组织抢收.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_太行行署指示各专县_防备风雹组织抢收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_川省公教人员怠工_要求改善待遇.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_川省公教人员怠工_要求改善待遇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_巴黎会议续商对意和约问题_苏联反对分割朱利亚.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_巴黎会议续商对意和约问题_苏联反对分割朱利亚.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_我军顺应人民紧急申请_解放津浦北段泊头镇_击灭伪徐春林部并生擒千余_淮南我军奋起自卫激战定远西北.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_我军顺应人民紧急申请_解放津浦北段泊头镇_击灭伪徐春林部并生擒千余_淮南我军奋起自卫激战定远西北.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_政府与原主协力下_磕井煤矿复业_工人关心矿窑增产百分之卅.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_政府与原主协力下_磕井煤矿复业_工人关心矿窑增产百分之卅.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_晋城检讨群运领导经验_放手不等于自流领导如同_赶车_晋绥派工作团协助新区群运.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_晋城检讨群运领导经验_放手不等于自流领导如同_赶车_晋绥派工作团协助新区群运.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_晋绥减租后_广大群众置地生产_二分区富农增雇长工百余人.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_晋绥减租后_广大群众置地生产_二分区富农增雇长工百余人.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_晋绥各界人民通电_抗议国民党阴谋水淹冀鲁.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_晋绥各界人民通电_抗议国民党阴谋水淹冀鲁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_本市商人集会座谈_戎副主席阐述工商政策.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_本市商人集会座谈_戎副主席阐述工商政策.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_永丰运输公司开张华中水陆交通畅达.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_永丰运输公司开张华中水陆交通畅达.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_永年小组离邯赴永_恢复交通救济城内居民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_永年小组离邯赴永_恢复交通救济城内居民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_皖江行署主任吕惠生同志_惨遭南京当局杀害_华东军民悲愤万分誓为死者复仇.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_皖江行署主任吕惠生同志_惨遭南京当局杀害_华东军民悲愤万分誓为死者复仇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_西姆拉会议已宣告失败.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_西姆拉会议已宣告失败.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_资本帝国主义统治下_西欧东南亚普遍饥荒_汉堡巴黎以人发猫肉为食马来人日仅得面粉一两半.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_资本帝国主义统治下_西欧东南亚普遍饥荒_汉堡巴黎以人发猫肉为食马来人日仅得面粉一两半.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-18_齐逆子修留下祸根_冠县蝼蛄成灾_政府组织群众捕灭_苏皖边区刨蝻代赈.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-18_齐逆子修留下祸根_冠县蝼蛄成灾_政府组织群众捕灭_苏皖边区刨蝻代赈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_为和平民主坚决奋斗_各国共产党飞跃发展_除苏联中国外，十八个国家共产党领导或参加政府。_意共产党员达百七十万_越共产党领袖胡志明荣任人民共和国总统.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_为和平民主坚决奋斗_各国共产党飞跃发展_除苏联中国外，十八个国家共产党领导或参加政府。_意共产党员达百七十万_越共产党领袖胡志明荣任人民共和国总统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_全体员工积极抢修下_锦承铁路通车_山东铁路学校开学.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_全体员工积极抢修下_锦承铁路通车_山东铁路学校开学.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_冀南银行在邢市_发放贷款三千万.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_冀南银行在邢市_发放贷款三千万.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_十七师暨军区警卫团_向四平街保卫者致敬.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_十七师暨军区警卫团_向四平街保卫者致敬.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_华中耋老张建邦_惨遭国特暗杀.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_华中耋老张建邦_惨遭国特暗杀.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_国民党法西斯派_优容汉奸战犯_杜逆锡钧被释放庞逆炳勋升了官.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_国民党法西斯派_优容汉奸战犯_杜逆锡钧被释放庞逆炳勋升了官.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_太平洋英领三岛美国已发生兴趣.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_太平洋英领三岛美国已发生兴趣.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_安东市浪头区_数千群众集会庆翻身_宣称：_我们要保卫已经得到的土地！.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_安东市浪头区_数千群众集会庆翻身_宣称：_我们要保卫已经得到的土地！.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_审查政府工作确定施政方针_张市举行首届参议会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_审查政府工作确定施政方针_张市举行首届参议会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_山东三千里海岸线上_十万渔盐民积极增产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_山东三千里海岸线上_十万渔盐民积极增产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_巴黎外长会议搁浅_贝纳斯提议六月再开.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_巴黎外长会议搁浅_贝纳斯提议六月再开.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_广大群众分得土地人力车夫当了街长_人民翻了身生产大开展_经济生活上升教育显著发展.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_广大群众分得土地人力车夫当了街长_人民翻了身生产大开展_经济生活上升教育显著发展.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_新乡执行组孟县考查纪实.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_新乡执行组孟县考查纪实.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_晋城铁工十万复业.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_晋城铁工十万复业.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_正确的商业政策推动下_邢台市商号激增.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_正确的商业政策推动下_邢台市商号激增.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_民主政府领导群众翻了身_安东已成人民乐土_城里没有警察街上没有乞丐.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_民主政府领导群众翻了身_安东已成人民乐土_城里没有警察街上没有乞丐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_济宁、大名等十一县_反奸运动先后展开_已有八万余人卷入运动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_济宁、大名等十一县_反奸运动先后展开_已有八万余人卷入运动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_盟军总部竟然批准_币原捧吉田为首相_远东委员会举行会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_盟军总部竟然批准_币原捧吉田为首相_远东委员会举行会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_简讯.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_简讯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_苏皖边区筹备_教育界联合会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_苏皖边区筹备_教育界联合会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_苏联战后工业建设突飞猛进.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_苏联战后工业建设突飞猛进.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_解放区各地继续复员_边区上月一万三千人回乡生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_解放区各地继续复员_边区上月一万三千人回乡生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_解放区工合联办在延正式成立.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_解放区工合联办在延正式成立.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_辽阔草原开始苏生_蒙察人民发展牧畜.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_辽阔草原开始苏生_蒙察人民发展牧畜.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-19_远东军事法庭审东条等战犯.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-19_远东军事法庭审东条等战犯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_中外报纸与无线电_谴责国民党扩大内战_要求美军离华履行莫斯科决议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_中外报纸与无线电_谴责国民党扩大内战_要求美军离华履行莫斯科决议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_冀中解放区_加强邮电建设.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_冀中解放区_加强邮电建设.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_制止国民党水淹五省_冀鲁豫沿河七百万居民_向豫皖苏同胞呼吁团结起来救人自救.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_制止国民党水淹五省_冀鲁豫沿河七百万居民_向豫皖苏同胞呼吁团结起来救人自救.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_发展小煤窑生产_提倡群众合作经营.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_发展小煤窑生产_提倡群众合作经营.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_和约问题必须四强一致协议_莫洛托夫严辞拒斥贝纳斯_巴黎外长会议即将休会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_和约问题必须四强一致协议_莫洛托夫严辞拒斥贝纳斯_巴黎外长会议即将休会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_国民党军增援猛犯_四平街前线激战再起_民主联军击退六次冲锋_白崇禧携国民党最高当局命令赴东北.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_国民党军增援猛犯_四平街前线激战再起_民主联军击退六次冲锋_白崇禧携国民党最高当局命令赴东北.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_国民党决心淹我解放区_边府参议会告全区人民自卫_我代表赵明甫等抵京.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_国民党决心淹我解放区_边府参议会告全区人民自卫_我代表赵明甫等抵京.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_国民党统治区_物价飞涨民不堪命_重庆机器工厂数百家倒闭.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_国民党统治区_物价飞涨民不堪命_重庆机器工厂数百家倒闭.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_太岳群众翻身后_大众文化广泛发展_鲁中区成立民校九千余处.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_太岳群众翻身后_大众文化广泛发展_鲁中区成立民校九千余处.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_峰峰利民煤矿_开展五月大生产运动_双和井创造一吨零六新纪录.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_峰峰利民煤矿_开展五月大生产运动_双和井创造一吨零六新纪录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_巨鹿联合铁木工厂_推行新式纺车.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_巨鹿联合铁木工厂_推行新式纺车.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_平绥路三百里通车_公路与晋西陕北相联.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_平绥路三百里通车_公路与晋西陕北相联.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_张东荪氏对记者称_国民党正挑动大内战_必将引起全国人民反内战运动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_张东荪氏对记者称_国民党正挑动大内战_必将引起全国人民反内战运动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_感谢自由幸福的保卫者_东北人民热烈劳军_哈市十五万群众盛大庆祝民主联军.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_感谢自由幸福的保卫者_东北人民热烈劳军_哈市十五万群众盛大庆祝民主联军.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_掀石碑_淮安石塘区佃户翻身记.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_掀石碑_淮安石塘区佃户翻身记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_日本组阁风波暂告平伏_战犯吉田茂组新阁.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_日本组阁风波暂告平伏_战犯吉田茂组新阁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_晋中煤矿业复兴_工人生活改善资方利润增加.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_晋中煤矿业复兴_工人生活改善资方利润增加.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_民主联军释放战俘_被释官兵深为宽大仁厚感动自惭穿美国衣打中国人可羞.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_民主联军释放战俘_被释官兵深为宽大仁厚感动自惭穿美国衣打中国人可羞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_江西一片悲惨景象.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_江西一片悲惨景象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_沿河人民代表电国民政府_政府既有堵口放水自由人民自有拚死自卫办法.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_沿河人民代表电国民政府_政府既有堵口放水自由人民自有拚死自卫办法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_盟国对日委会开第四次会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_盟国对日委会开第四次会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_美争取和平委员会上书杜鲁门_敦促美政府封锁佛朗哥.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_美争取和平委员会上书杜鲁门_敦促美政府封锁佛朗哥.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_美国务院裂痕扩大反动派排斥进步人士.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_美国务院裂痕扩大反动派排斥进步人士.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_苏皖边区兴修淮宝水利_可增产稻百八十万石.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_苏皖边区兴修淮宝水利_可增产稻百八十万石.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_蒙察人民代表会在张举行_成立民族自治联盟政府.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_蒙察人民代表会在张举行_成立民族自治联盟政府.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_西南日报新闻报造谣张学良参加中共_新华社奉命驳斥.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_西南日报新闻报造谣张学良参加中共_新华社奉命驳斥.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_边府指示所属加强时事学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_边府指示所属加强时事学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_邯郸市府_扶植小摊贩.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_邯郸市府_扶植小摊贩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-20_长春市掀起翻身运动_苏皖边区四十万人反奸减租.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-20_长春市掀起翻身运动_苏皖边区四十万人反奸减租.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_上海人民团体联合会_通电呼吁制止内战_发表宣言主张实行政协决议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_上海人民团体联合会_通电呼吁制止内战_发表宣言主张实行政协决议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_上海市各界妇女自动普选国大妇女代表.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_上海市各界妇女自动普选国大妇女代表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_中央社造谣包藏祸心_阴谋掩盖水淹我区罪行_边区政府发言人严加驳斥.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_中央社造谣包藏祸心_阴谋掩盖水淹我区罪行_边区政府发言人严加驳斥.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_关内外客商接踵而至_冀中市场日益繁荣_张垣每日贸易额二千万元.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_关内外客商接踵而至_冀中市场日益繁荣_张垣每日贸易额二千万元.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_冀鲁豫区境内_千里水道船只往还.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_冀鲁豫区境内_千里水道船只往还.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_博山各铁工厂_实行分工制造联合经营.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_博山各铁工厂_实行分工制造联合经营.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_吉林蛟河等县_敌占土地分给贫苦工农_政府确保他们的地权，发给土地执照。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_吉林蛟河等县_敌占土地分给贫苦工农_政府确保他们的地权，发给土地执照。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_国民党军侵占我定远城_我军民自卫奋战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_国民党军侵占我定远城_我军民自卫奋战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_国民党军封锁我解放区_阻止青年往张家口旅行.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_国民党军封锁我解放区_阻止青年往张家口旅行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_国民党豢养伪匪扰乱解放区_惯匪陈德三部被肃清_蜀山湖变为良田人民生产自卫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_国民党豢养伪匪扰乱解放区_惯匪陈德三部被肃清_蜀山湖变为良田人民生产自卫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_国美两方代表避谈受降问题_永年伪军猖狂益甚_保持民族尊严我代表坚主驻地应在解放区_城内伪军竟仗势猛烈射击我防地.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_国美两方代表避谈受降问题_永年伪军猖狂益甚_保持民族尊严我代表坚主驻地应在解放区_城内伪军竟仗势猛烈射击我防地.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_宣化店执行小组_下令停止开火.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_宣化店执行小组_下令停止开火.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_山地平原雨水调匀_边区洋溢丰年景象_若干地区小麦发现黄疸，收成可能稍减.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_山地平原雨水调匀_边区洋溢丰年景象_若干地区小麦发现黄疸，收成可能稍减.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_巴黎外长会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_巴黎外长会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_意大利保皇派造谣图为意王保持王位.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_意大利保皇派造谣图为意王保持王位.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_新乡小组视察安阳冲突_证实国民党军违约攻占我村庄.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_新乡小组视察安阳冲突_证实国民党军违约攻占我村庄.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_日皇宫外苑五千群众示威_反对吉田组阁_人民要求分享皇室粮食资财.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_日皇宫外苑五千群众示威_反对吉田组阁_人民要求分享皇室粮食资财.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_望都国特武装出犯几次冲锋被我击退.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_望都国特武装出犯几次冲锋被我击退.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_本市物价表（五月廿日）.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_本市物价表（五月廿日）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_瑞华银行正式成立_胡竹轩当选董事长.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_瑞华银行正式成立_胡竹轩当选董事长.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_白崇禧飞抵沈阳_大放厥词制造舆论布置扩大东北内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_白崇禧飞抵沈阳_大放厥词制造舆论布置扩大东北内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_第三党中干会议决定改为中国工农民主党.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_第三党中干会议决定改为中国工农民主党.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_豫东我军自卫战告捷_击退国民党军进攻_毙伤伪六十余缴机枪一挺.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_豫东我军自卫战告捷_击退国民党军进攻_毙伤伪六十余缴机枪一挺.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_豫东解放区介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_豫东解放区介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_贪婪！残暴！_西康国民党军与民争烟发生激战民众死伤廿万.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_贪婪！残暴！_西康国民党军与民争烟发生激战民众死伤廿万.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_邢台市成立_各业职工联合会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_邢台市成立_各业职工联合会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_邢台市深入群运后_群众组织合作生产_八个合作社组织了四百纺妇.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_邢台市深入群运后_群众组织合作生产_八个合作社组织了四百纺妇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_顺应人民请求_我军进驻泊头镇_执行小组同意交河保安队驻泊镇.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_顺应人民请求_我军进驻泊头镇_执行小组同意交河保安队驻泊镇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-21_鸡泽等县预防夏泛_数十万群众浚河开渠.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-21_鸡泽等县预防夏泛_数十万群众浚河开渠.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_中共与苏订立秘密协定非事实_美代理国务卿发表声明_参议员泼贝尔力主美苏真正合作.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_中共与苏订立秘密协定非事实_美代理国务卿发表声明_参议员泼贝尔力主美苏真正合作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_人民日报创刊纪念.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_人民日报创刊纪念.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_冀中国民党军_陷我安次.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_冀中国民党军_陷我安次.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_冀南各地小学_一面学习一面生产_裴庄初小女生纺织，两月赚洋四千元.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_冀南各地小学_一面学习一面生产_裴庄初小女生纺织，两月赚洋四千元.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_准备随时自卫_太行廿五县突击下种_黎城各系统干部下乡组织各村大变工和顺三个区组织妇孺劳力将近五千人.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_准备随时自卫_太行廿五县突击下种_黎城各系统干部下乡组织各村大变工和顺三个区组织妇孺劳力将近五千人.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_加强地方报导_太行新华日报改版.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_加强地方报导_太行新华日报改版.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_华中建国大学迁鲁_与山东大学合并_现分五系学员达二千人.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_华中建国大学迁鲁_与山东大学合并_现分五系学员达二千人.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_华中成立_孤儿福利会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_华中成立_孤儿福利会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_四平街保卫战_解放日报时评.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_四平街保卫战_解放日报时评.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_四平街前线连日激战_国民党军枉死千余_以飞机坦克掩护冲锋均未获逞.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_四平街前线连日激战_国民党军枉死千余_以飞机坦克掩护冲锋均未获逞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_国民党法西斯派_加强上海特务统治.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_国民党法西斯派_加强上海特务统治.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_国民党破坏和平_士兵拒绝打内战_马西努论中国局势.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_国民党破坏和平_士兵拒绝打内战_马西努论中国局势.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_国民党飞机四出窜扰_竟侵入我陕甘宁边区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_国民党飞机四出窜扰_竟侵入我陕甘宁边区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_官僚资本充斥台湾_各种工业生产力普遍下降.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_官僚资本充斥台湾_各种工业生产力普遍下降.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_峰峰矿区职工会_组织职工家属生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_峰峰矿区职工会_组织职工家属生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_巴黎会议暂告休会_未决问题留交各外长代表研究.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_巴黎会议暂告休会_未决问题留交各外长代表研究.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_幼儿之家_邯郸_福利托儿所_访问记.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_幼儿之家_邯郸_福利托儿所_访问记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_德境英占领区存粮枯竭_九百万德人将饿毙_意妇女饥民袭击某地主家.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_德境英占领区存粮枯竭_九百万德人将饿毙_意妇女饥民袭击某地主家.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_把监狱变成学校_冀南各专县设自新院_犯人生产学习武城无一人逃亡.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_把监狱变成学校_冀南各专县设自新院_犯人生产学习武城无一人逃亡.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_日共首次出席新议会_提议开放全国粮库救济饥民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_日共首次出席新议会_提议开放全国粮库救济饥民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_晋察冀边委会决定_重整行政组织机构_加强统一财经管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_晋察冀边委会决定_重整行政组织机构_加强统一财经管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_林彪将军访问记.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_林彪将军访问记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_武乡老区群众牵驴荷犁_赶赴新区支援生产_和顺再度救济马坊春荒.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_武乡老区群众牵驴荷犁_赶赴新区支援生产_和顺再度救济马坊春荒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_美扩张中东投资以与英国相竞争.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_美扩张中东投资以与英国相竞争.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_辉北县争取在麦收前_彻底贯彻减租.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_辉北县争取在麦收前_彻底贯彻减租.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_边区煤业会议上_戎副主席指示煤业方向_大窑小窑互相学习，提高技术，奠定工业化基础。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_边区煤业会议上_戎副主席指示煤业方向_大窑小窑互相学习，提高技术，奠定工业化基础。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_邢台组织教育参观团_到老区吸取教育经验.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_邢台组织教育参观团_到老区吸取教育经验.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-22_阎锡山强征民粮_太原市民纷起抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-22_阎锡山强征民粮_太原市民纷起抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_一幕丑恶滑稽剧_邵力子宣布国大要延期某些猪仔代表拍案叫骂.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_一幕丑恶滑稽剧_邵力子宣布国大要延期某些猪仔代表拍案叫骂.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_中国人民解放史的光辉一页_血战卅余日毙伤进犯军万余_我军衔愤撤离四平街_转至郊外预定阵地继续坚强抗击.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_中国人民解放史的光辉一页_血战卅余日毙伤进犯军万余_我军衔愤撤离四平街_转至郊外预定阵地继续坚强抗击.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_光荣的四平街保卫战_解放日报二十一日社论.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_光荣的四平街保卫战_解放日报二十一日社论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_南京商谈黄河归故_我代表力主全力复堤_国民党仍不放弃修堵并进.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_南京商谈黄河归故_我代表力主全力复堤_国民党仍不放弃修堵并进.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_国民党军横行霸道_不断攻扰我热河解放区我已向军调部提出注意锦平铁道沿线国民党军大修碉堡.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_国民党军横行霸道_不断攻扰我热河解放区我已向军调部提出注意锦平铁道沿线国民党军大修碉堡.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_国民党当局撕毁汉口协议_背信进攻中原解放区_我军被迫自卫寿山地区发生激战中原军区当局要求三人小组立予制止.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_国民党当局撕毁汉口协议_背信进攻中原解放区_我军被迫自卫寿山地区发生激战中原军区当局要求三人小组立予制止.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_国民党当局故意拖延时间留难执行小组赴豫东调处.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_国民党当局故意拖延时间留难执行小组赴豫东调处.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_国民党法西斯派扩大内战中_宋时轮将军在平遇刺_叶委员剑英函请治安当局切实查究.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_国民党法西斯派扩大内战中_宋时轮将军在平遇刺_叶委员剑英函请治安当局切实查究.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_国民党派遣特务潜入我区_暗杀放毒配合军事进攻_女特务随带电刀四出诱杀值得警惕.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_国民党派遣特务潜入我区_暗杀放毒配合军事进攻_女特务随带电刀四出诱杀值得警惕.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_埃及各报抨击英埃订约.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_埃及各报抨击英埃订约.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_太原日军尚多_请问阎锡山留下何用.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_太原日军尚多_请问阎锡山留下何用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_山东国民党军两师_进犯我历城地区_我军民奋战恢复中宫镇.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_山东国民党军两师_进犯我历城地区_我军民奋战恢复中宫镇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_晋绥等三解放区_风调雨顺夏收有望_察南旱象已成政府号召防旱备荒.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_晋绥等三解放区_风调雨顺夏收有望_察南旱象已成政府号召防旱备荒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_欣欣向荣的济宁市.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_欣欣向荣的济宁市.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_民主政府发放巨大贷款_恢复两淮长芦二大盐场_产盐将可供两万万以上人口食用国民党蓄意破坏盐滩_我将坚决自卫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_民主政府发放巨大贷款_恢复两淮长芦二大盐场_产盐将可供两万万以上人口食用国民党蓄意破坏盐滩_我将坚决自卫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_汶上县大队第二连_协助开展廿村群运.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_汶上县大队第二连_协助开展廿村群运.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_河南民主建国学会高延柳谈称：_豫省人民拥护荷泽协议决不为反动派挑拨利用_边府边参会_电杜鲁门请予制止塔德谬行.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_河南民主建国学会高延柳谈称：_豫省人民拥护荷泽协议决不为反动派挑拨利用_边府边参会_电杜鲁门请予制止塔德谬行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_盟国对日委员会开会美代表竟反对日民众要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_盟国对日委员会开会美代表竟反对日民众要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_组织联防加强民兵_冀南人民扑灭特务凶焰_恩县消灭暗杀团十一名.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_组织联防加强民兵_冀南人民扑灭特务凶焰_恩县消灭暗杀团十一名.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_联政、人民两剧团_在本市先后公演.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_联政、人民两剧团_在本市先后公演.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_英国仍图驻兵印度_印督组织临时政府.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_英国仍图驻兵印度_印督组织临时政府.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_西安国民党当道_压制民盟活动_名教育家李文仁遭特务杀害.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_西安国民党当道_压制民盟活动_名教育家李文仁遭特务杀害.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_边区文协举办_延安木刻展览.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_边区文协举办_延安木刻展览.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-23_边区邮务职工会_抗议国民党活埋我邮工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-23_边区邮务职工会_抗议国民党活埋我邮工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_人民日报创刊.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_人民日报创刊.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_借口_护路_扩大中国内战_美军增兵北宁沿线_平古路侧我击溃侯镜如部进犯.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_借口_护路_扩大中国内战_美军增兵北宁沿线_平古路侧我击溃侯镜如部进犯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_冀南银行邯郸市营业简章.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_冀南银行邯郸市营业简章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_冀鲁豫各机关学校_上下动手积肥种地.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_冀鲁豫各机关学校_上下动手积肥种地.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_反对吉田军阀内阁_东京万余群众大示威_德田指斥阿契生污蔑日共.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_反对吉田军阀内阁_东京万余群众大示威_德田指斥阿契生污蔑日共.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_吉林省临参会成立_坚决反对国民党在东北进行内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_吉林省临参会成立_坚决反对国民党在东北进行内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_和顺经过减租_互助生产超过往年_群运未深入村生产劲头不大_沁县二区检查全区生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_和顺经过减租_互助生产超过往年_群运未深入村生产劲头不大_沁县二区检查全区生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_国民党进占后_抚顺重陷黑暗深渊_民不堪命纷纷逃向解放区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_国民党进占后_抚顺重陷黑暗深渊_民不堪命纷纷逃向解放区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_太原周围阎军出犯_孝义汾阳一带小有接触.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_太原周围阎军出犯_孝义汾阳一带小有接触.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_安多莱斯哥_判处死刑.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_安多莱斯哥_判处死刑.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_对太平洋战略岛屿_英美继续发生争执.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_对太平洋战略岛屿_英美继续发生争执.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_平汉路东国民党军蠢动_妄图进攻冀鲁豫区_全区人民愤慨万状要求坚决抗击.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_平汉路东国民党军蠢动_妄图进攻冀鲁豫区_全区人民愤慨万状要求坚决抗击.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_建设民主繁荣的新松江_人民代表选举省府委员_马仲云将军当选省主席.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_建设民主繁荣的新松江_人民代表选举省府委员_马仲云将军当选省主席.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_徐州暗无天日_人民苛杂繁重，生活无着，妇女多沦为娼妓。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_徐州暗无天日_人民苛杂繁重，生活无着，妇女多沦为娼妓。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_抗议！！_国民党飞机窜扰延安.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_抗议！！_国民党飞机窜扰延安.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_掌握运动火候_宁阳反奸减租紧密结合.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_掌握运动火候_宁阳反奸减租紧密结合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_有效制止美洲法西斯细菌活动_摩根索要求清洗国务院_下午报严斥西驻美大使馆宣传活动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_有效制止美洲法西斯细菌活动_摩根索要求清洗国务院_下午报严斥西驻美大使馆宣传活动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_毋使中国陷于烽火燎原_马歇尔警告好战分子_延安方面咸表同情愿与美方公正人士亲密合作维护和平.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_毋使中国陷于烽火燎原_马歇尔警告好战分子_延安方面咸表同情愿与美方公正人士亲密合作维护和平.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_泊头镇秩序安定_市民拥护我施政主张.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_泊头镇秩序安定_市民拥护我施政主张.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_美方破坏莫斯科决议_朝鲜美苏委会流产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_美方破坏莫斯科决议_朝鲜美苏委会流产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_美术音乐工作者座谈_活跃本市文娱生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_美术音乐工作者座谈_活跃本市文娱生活.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_苏比诸国控告佛朗哥_安理会公布佛朗哥战罪证件.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_苏比诸国控告佛朗哥_安理会公布佛朗哥战罪证件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_西北联大学潮扩大_法西斯反动派竟施镇压.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_西北联大学潮扩大_法西斯反动派竟施镇压.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_边府十月将召开_全区扩大教育会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_边府十月将召开_全区扩大教育会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_邯郸商业今昔谈.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_邯郸商业今昔谈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-24_顽伪积极布置武装抢麦_军民应急起保卫夏收.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-24_顽伪积极布置武装抢麦_军民应急起保卫夏收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_一万五千干部参加群运_渤海组织群众三百万.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_一万五千干部参加群运_渤海组织群众三百万.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_偏城春耕运动中_获得四点经验.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_偏城春耕运动中_获得四点经验.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_冀南一、三、四、五分区_农民普遍组织农会_闻喜加强思想教育，揭穿非法地主破坏群运阴谋。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_冀南一、三、四、五分区_农民普遍组织农会_闻喜加强思想教育，揭穿非法地主破坏群运阴谋。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_冀鲁豫区形势紧张_国民党军亟图大进攻_国民党接济纵容东明伪军出城烧杀侵扰五十万人民要求我军领导打击伪军进攻.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_冀鲁豫区形势紧张_国民党军亟图大进攻_国民党接济纵容东明伪军出城烧杀侵扰五十万人民要求我军领导打击伪军进攻.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_冀鲁豫日报_总结一年通讯工作_临泽等八县荣获奖章.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_冀鲁豫日报_总结一年通讯工作_临泽等八县荣获奖章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_几家欢乐几家愁_安阳杂记.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_几家欢乐几家愁_安阳杂记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_印度尼西亚_拒绝与荷重开谈判.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_印度尼西亚_拒绝与荷重开谈判.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国方仍不顾中外复堤合理要求_我驻京代表据理力争_我要求驻员花园口，竟遭无理拖延。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国方仍不顾中外复堤合理要求_我驻京代表据理力争_我要求驻员花园口，竟遭无理拖延。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国民党军继续进犯汉川天门以西地区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国民党军继续进犯汉川天门以西地区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国民党军进攻中原解放区_李先念将军严重抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国民党军进攻中原解放区_李先念将军严重抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国民党反动派抓丁扩大内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国民党反动派抓丁扩大内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国民党统治区各界人士_反对不复堤先堵口.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国民党统治区各界人士_反对不复堤先堵口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_国际述评.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_国际述评.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_太岳行署决定_减轻负担小米八万石秋季负担款全部免征.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_太岳行署决定_减轻负担小米八万石秋季负担款全部免征.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_山东组织_实业股份有限公司.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_山东组织_实业股份有限公司.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_扶植发展私人资本_焦作煤矿改股份公司_承认原股东股权并招收新股.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_扶植发展私人资本_焦作煤矿改股份公司_承认原股东股权并招收新股.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_政民人员退休仍能各得其所_边府规定退休办法.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_政民人员退休仍能各得其所_边府规定退休办法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_救济物资运往承德国民党军拦路抢劫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_救济物资运往承德国民党军拦路抢劫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_日人民要求民主、粮食_廾五万人游行示威_美军当场卸去炮衣如临大敌.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_日人民要求民主、粮食_廾五万人游行示威_美军当场卸去炮衣如临大敌.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_李海衔命赴英_商谈太平洋基地问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_李海衔命赴英_商谈太平洋基地问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_永年小组证实伪军挑衅_我力请受降解散伪军.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_永年小组证实伪军挑衅_我力请受降解散伪军.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_沪米价飞涨_工人大罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_沪米价飞涨_工人大罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_美国工潮又起_杜鲁门调解铁路工潮失败廾五万工人将开始总罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_美国工潮又起_杜鲁门调解铁路工潮失败廾五万工人将开始总罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_美外交政策呈现新趋势_企图建立世界基地网_英美两国间利益发生矛盾.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_美外交政策呈现新趋势_企图建立世界基地网_英美两国间利益发生矛盾.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_翻身群众修浚运粮河_博爱五万亩地成良田.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_翻身群众修浚运粮河_博爱五万亩地成良田.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_英相发表对印计划仍无意予印度独立.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_英相发表对印计划仍无意予印度独立.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_著名宁河农场_五万亩良田全部播种_凡被日鲜人强买去土地之原主，可以劣地换回好地。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_著名宁河农场_五万亩良田全部播种_凡被日鲜人强买去土地之原主，可以劣地换回好地。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_长春市三十五所学校复课_医科大学月底开学.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_长春市三十五所学校复课_医科大学月底开学.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-25_陕甘宁边区夏收有望_延安市郊麦色青葱_清涧一县种棉四万五千亩.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-25_陕甘宁边区夏收有望_延安市郊麦色青葱_清涧一县种棉四万五千亩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_上海中外人士痛斥_警管_特务统治_较德日意法西斯尤为狂妄.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_上海中外人士痛斥_警管_特务统治_较德日意法西斯尤为狂妄.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_东北名流周鲸文氏_斥政府东北内战政策不仁无异加诸家乡父老以绞刑.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_东北名流周鲸文氏_斥政府东北内战政策不仁无异加诸家乡父老以绞刑.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_中央社无耻造谣诬我派机袭击太原飞机场.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_中央社无耻造谣诬我派机袭击太原飞机场.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_伊总理苏尔丹尼播讲_伊苏建立友好关系_痛责国会反动议员制造伊苏不和阿塞拜疆代表团应邀赴伊京.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_伊总理苏尔丹尼播讲_伊苏建立友好关系_痛责国会反动议员制造伊苏不和阿塞拜疆代表团应邀赴伊京.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_军调部颁发和字第七号命令_调查违犯停战令行动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_军调部颁发和字第七号命令_调查违犯停战令行动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_反对美英法对意南划界建议_南国人民示威游行.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_反对美英法对意南划界建议_南国人民示威游行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_各地物价纷纷回跌.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_各地物价纷纷回跌.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_吕梁领导生产得力_晋中平川消灭蝗患_修水利可灌田六十万亩，文水等县植棉超过战前。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_吕梁领导生产得力_晋中平川消灭蝗患_修水利可灌田六十万亩，文水等县植棉超过战前。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_太行汲淇、昔阳等县生产中贯彻查减_干部在参加领导生产中，发现问题灵活解决。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_太行汲淇、昔阳等县生产中贯彻查减_干部在参加领导生产中，发现问题灵活解决。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_张市商家万人签名反对国民党扩大内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_张市商家万人签名反对国民党扩大内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_张雪岩论两党言论_事实胜于漫骂_中共以理服人国民党理穷词拙.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_张雪岩论两党言论_事实胜于漫骂_中共以理服人国民党理穷词拙.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_恢复战争创伤_冀南太行群众修盖新房.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_恢复战争创伤_冀南太行群众修盖新房.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_政府贷款、群众互济_长治解决新区生产困难_全县下种大部完成.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_政府贷款、群众互济_长治解决新区生产困难_全县下种大部完成.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_晋绥群众热烈募捐援助晋西南灾民生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_晋绥群众热烈募捐援助晋西南灾民生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_杜鲁门要求拨粮给救济总署_斯大林复函表示惋惜_苏粮食已拨予法兰西等国.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_杜鲁门要求拨粮给救济总署_斯大林复函表示惋惜_苏粮食已拨予法兰西等国.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_温爱祥、杨老放创制新辘轳.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_温爱祥、杨老放创制新辘轳.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_满洲红军如期撤完.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_满洲红军如期撤完.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_滨海春雨足增产有保证.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_滨海春雨足增产有保证.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_石塘区的主佃仲裁会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_石塘区的主佃仲裁会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_纽约军人代表会议反对政府强权政治坚主美苏必须友好.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_纽约军人代表会议反对政府强权政治坚主美苏必须友好.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_苏皖我军恢复萧县_中原执行组调查顽军进攻情况_东北国民党飞机轰炸和平居民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_苏皖我军恢复萧县_中原执行组调查顽军进攻情况_东北国民党飞机轰炸和平居民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_苏皖民主政府组织生产救济_百万灾民渡过灾荒.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_苏皖民主政府组织生产救济_百万灾民渡过灾荒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_荷泽社会教育活跃_焦作市成立文联.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_荷泽社会教育活跃_焦作市成立文联.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_莫斯科广播评论员揭露_蒋介石保存日军扩展内战_东北民主联军愤慨美国武器帮助国民党屠杀中国人民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_莫斯科广播评论员揭露_蒋介石保存日军扩展内战_东北民主联军愤慨美国武器帮助国民党屠杀中国人民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_誓死反对堵口阴谋_沿河七百万人民选出代表赴京请愿要求浚河复堤_群众激愤愿以实际力量与行动作后盾.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_誓死反对堵口阴谋_沿河七百万人民选出代表赴京请愿要求浚河复堤_群众激愤愿以实际力量与行动作后盾.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_边区会计学会成立太行太岳区会.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_边区会计学会成立太行太岳区会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_邯郸市政府清查敌占田产发还群众_农民成了自己土地的主人，生产情绪高涨。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_邯郸市政府清查敌占田产发还群众_农民成了自己土地的主人，生产情绪高涨。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-26_麦克阿瑟漠视民意_日共及舆论予以批评.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-26_麦克阿瑟漠视民意_日共及舆论予以批评.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_不愿加重自身罪孽_伪杜淑部三千自动投降_我应人民之请进驻东明.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_不愿加重自身罪孽_伪杜淑部三千自动投降_我应人民之请进驻东明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_伊朗苏军撤退完毕_德黑兰三反动议员被捕.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_伊朗苏军撤退完毕_德黑兰三反动议员被捕.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_冀东发展各种生产_捕渔编席水果业兴隆_烟台工人贫民组织各种合作社.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_冀东发展各种生产_捕渔编席水果业兴隆_烟台工人贫民组织各种合作社.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_冀中农业副业密切结合_互助发展播种及时_小型合作经营增加不少收入.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_冀中农业副业密切结合_互助发展播种及时_小型合作经营增加不少收入.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_冀鲁豫武委会_号召民兵保卫麦收_太行边沿区健全联防.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_冀鲁豫武委会_号召民兵保卫麦收_太行边沿区健全联防.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_北方大学举行盛大晚会_欢迎新来教授同学_王鹤教授说：解放区的和平民主，在国民党统治区是看不到的。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_北方大学举行盛大晚会_欢迎新来教授同学_王鹤教授说：解放区的和平民主，在国民党统治区是看不到的。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_又一残酷暴行！_修武国民党军奔袭我区署我区长区政委惨遭杀害_边区参议会通电全国抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_又一残酷暴行！_修武国民党军奔袭我区署我区长区政委惨遭杀害_边区参议会通电全国抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_塔斯社奉命辟谣红军中绝无德军官.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_塔斯社奉命辟谣红军中绝无德军官.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_太行成立工业研究所.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_太行成立工业研究所.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_巴达维亚展开激战_东印军民抗击英荷军.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_巴达维亚展开激战_东印军民抗击英荷军.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_平遥阜村从发动佃户减租中彻底打垮奸伪反攻农民收回被夺去的土地.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_平遥阜村从发动佃户减租中彻底打垮奸伪反攻农民收回被夺去的土地.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_张垣建立三三制政权_保证社会贤达参政市民无不感佩.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_张垣建立三三制政权_保证社会贤达参政市民无不感佩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_怀远国民党军开枪行凶_无辜师生血染涡河_国民党军强拉校工搬运货物怀中师生据理交涉惨遭枪杀.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_怀远国民党军开枪行凶_无辜师生血染涡河_国民党军强拉校工搬运货物怀中师生据理交涉惨遭枪杀.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_恒利汽车公司_私营后劳资分红工人情绪高.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_恒利汽车公司_私营后劳资分红工人情绪高.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_欢迎马歇尔声明_军区发言人称：我以严正态度坚持停战令，愿与美公正人士合作维护和平。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_欢迎马歇尔声明_军区发言人称：我以严正态度坚持停战令，愿与美公正人士合作维护和平。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_灾难中的人们_新辉获_国军_侵占区剪影.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_灾难中的人们_新辉获_国军_侵占区剪影.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_电讯要简练.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_电讯要简练.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_禹城各地伪军向我进攻_伪程荆朴部三百余被击溃_阎伪军进犯正太路南解放区.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_禹城各地伪军向我进攻_伪程荆朴部三百余被击溃_阎伪军进犯正太路南解放区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_红军如期撤离东北后_美军仍留华助长内战_马西努再论中国问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_红军如期撤离东北后_美军仍留华助长内战_马西努再论中国问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_美总统贷款方针_以金元赢得政治作用.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_美总统贷款方针_以金元赢得政治作用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_英共议员加拉契演说_主张宣布印度独立_抨击英阁使团对印问题白皮书.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_英共议员加拉契演说_主张宣布印度独立_抨击英阁使团对印问题白皮书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_英国下院通过法案_煤矿电讯设备国有.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_英国下院通过法案_煤矿电讯设备国有.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_莫斯科广播评论英对印新计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_莫斯科广播评论英对印新计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_迁居垦利一带沿河难民_新村日益繁荣_赤贫绝迹贫农大都上升.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_迁居垦利一带沿河难民_新村日益繁荣_赤贫绝迹贫农大都上升.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-27_黎城检查春耕领导_具体贯彻_耕三余一_加强组织工作，把生产提高一步。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-27_黎城检查春耕领导_具体贯彻_耕三余一_加强组织工作，把生产提高一步。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_东京成立日苏文协.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_东京成立日苏文协.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_伊总理发言人声明_内政不难和平解决_斥艾拉附和英美意见诬蔑苏联.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_伊总理发言人声明_内政不难和平解决_斥艾拉附和英美意见诬蔑苏联.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_冀鲁豫、冀南两区_印刷出版业日益发展_共出报纸杂志近二十种.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_冀鲁豫、冀南两区_印刷出版业日益发展_共出报纸杂志近二十种.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_军政大学西大校友_抗议反动派摧残母校.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_军政大学西大校友_抗议反动派摧残母校.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_十二万人齐翻身_翼城群运迅速普遍_领导上大胆放手集中力量干广大农民收回土地努力生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_十二万人齐翻身_翼城群运迅速普遍_领导上大胆放手集中力量干广大农民收回土地努力生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_国民大会党坚持印度立即独立_对英阁使团计划书迄未接受.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_国民大会党坚持印度立即独立_对英阁使团计划书迄未接受.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_宁武交城两地_恢复林业采伐_交城三个月收入达两千余万元.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_宁武交城两地_恢复林业采伐_交城三个月收入达两千余万元.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_廿五万铁路工人大罢工_美全国交通陷于停顿_四十万煤工亦将重新开始罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_廿五万铁路工人大罢工_美全国交通陷于停顿_四十万煤工亦将重新开始罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_我运粮救济平津粮荒又遭国民党军拦劫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_我运粮救济平津粮荒又遭国民党军拦劫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_扩大内战军粮骤增_国民党区粮荒严重_恢复田赋征实勒索人民.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_扩大内战军粮骤增_国民党区粮荒严重_恢复田赋征实勒索人民.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_新生命的检阅.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_新生命的检阅.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_日共主张改选议会_谴责多数议员曾与军部合作，从事侵略战争，将阻碍日本民主化。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_日共主张改选议会_谴责多数议员曾与军部合作，从事侵略战争，将阻碍日本民主化。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_本区周围顽伪军_积极布置抢我麦收_全体军民动员起来展开护粮斗争！.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_本区周围顽伪军_积极布置抢我麦收_全体军民动员起来展开护粮斗争！.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_本市物价表（五月廿六日）.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_本市物价表（五月廿六日）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_民主团结的哈尔滨.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_民主团结的哈尔滨.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_求取东北停战巩固国内和平_我军自动让出长春_国民党当局如果继续进行东北内战，我有足够力量将仍然坚决自卫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_求取东北停战巩固国内和平_我军自动让出长春_国民党当局如果继续进行东北内战，我有足够力量将仍然坚决自卫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_波兰三领袖访苏京.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_波兰三领袖访苏京.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_济南执行组飞临沂_国民党威吓我南通小组代表.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_济南执行组飞临沂_国民党威吓我南通小组代表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_滑县道口市修造船只恢复河运.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_滑县道口市修造船只恢复河运.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_祝人民日报创刊.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_祝人民日报创刊.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_美国报纸支持马歇尔声明_指责国民党政府对反动派清除工作过于迟缓.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_美国报纸支持马歇尔声明_指责国民党政府对反动派清除工作过于迟缓.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_群众翻身烈火燃遍平汉两侧_廿余万人卷入减租运动_豫北镇压了黑枪袭扰群运达高潮.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_群众翻身烈火燃遍平汉两侧_廿余万人卷入减租运动_豫北镇压了黑枪袭扰群运达高潮.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_著名陶磁专家刘雨辰_主持改良彭城磁业_边府决定在该处设立磁厂.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_著名陶磁专家刘雨辰_主持改良彭城磁业_边府决定在该处设立磁厂.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_边区最高学府_北方大学开始上课_平津汴沪等地教授学生不断来校，全校员生增至一千四百人。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_边区最高学府_北方大学开始上课_平津汴沪等地教授学生不断来校，全校员生增至一千四百人。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-28_邯市加强公共卫生建设清除街道注意卫生_冀南医院免费给群众种痘.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-28_邯市加强公共卫生建设清除街道注意卫生_冀南医院免费给群众种痘.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_中外报纸仗义执言_抨击国民党当局扩大内战责难留华美国军予以帮助.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_中外报纸仗义执言_抨击国民党当局扩大内战责难留华美国军予以帮助.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_亚历山大港骚动群众怒袭英国俱乐部.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_亚历山大港骚动群众怒袭英国俱乐部.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_冀鲁豫八千余村庄_组织看青队保卫麦收_太岳安、夏两县指挥部动员全县力量反对阎军抢劫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_冀鲁豫八千余村庄_组织看青队保卫麦收_太岳安、夏两县指挥部动员全县力量反对阎军抢劫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_国民党当局倒行逆施_颁布艺员登记法_沪戏剧界将以停业抗议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_国民党当局倒行逆施_颁布艺员登记法_沪戏剧界将以停业抗议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_国民党当局抛弃_杂牌_大批军官复员失业_陷于饥饿绝境群起呼吁救济.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_国民党当局抛弃_杂牌_大批军官复员失业_陷于饥饿绝境群起呼吁救济.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_国民党政府捐税重_大米市芜湖闹粮荒_乡民至少七成没有饭吃.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_国民党政府捐税重_大米市芜湖闹粮荒_乡民至少七成没有饭吃.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_太岳新华日报著论_立即动员起来保卫边沿区的麦收.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_太岳新华日报著论_立即动员起来保卫边沿区的麦收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_太岳行署决定_六六_评选模范教师.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_太岳行署决定_六六_评选模范教师.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_太行小麦发生黄疸病_农林局指出_黄疸收_说法不对号召选种浸种预防明年.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_太行小麦发生黄疸病_农林局指出_黄疸收_说法不对号召选种浸种预防明年.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_太行棉苗动锄_平、潞妇孩捉虫保苗形成运动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_太行棉苗动锄_平、潞妇孩捉虫保苗形成运动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_巨大浚河修堤工程未竣_大名邢台河泛成灾_冀南太行两行署进行急赈组织灾民生产自救.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_巨大浚河修堤工程未竣_大名邢台河泛成灾_冀南太行两行署进行急赈组织灾民生产自救.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_徐州兵拥如山_还乡难民流浪街头物价飞涨商业萧条.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_徐州兵拥如山_还乡难民流浪街头物价飞涨商业萧条.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_意法西斯匪徒破坏大选_十三万群众大示威_英美训令意政府减少面包配给量.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_意法西斯匪徒破坏大选_十三万群众大示威_英美训令意政府减少面包配给量.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_我军解民倒悬_东明人民热烈劳军_国民党飞机连日狂炸东明.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_我军解民倒悬_东明人民热烈劳军_国民党飞机连日狂炸东明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_执行民办公助方针后_太行小学获显著成绩。_真正做到群众自己办，领导上不自流。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_执行民办公助方针后_太行小学获显著成绩。_真正做到群众自己办，领导上不自流。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_救济小组在永年.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_救济小组在永年.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_新教育_月刊_各地教员纷纷订购.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_新教育_月刊_各地教员纷纷订购.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_晋冀察军区已完成遣送日俘侨民工作.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_晋冀察军区已完成遣送日俘侨民工作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_民族阵线政府政绩卓著_捷克人民举行大选_实行亲苏与民主国家合作大企业已国有化_七十五万农民分得土地国内民族团结巩固.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_民族阵线政府政绩卓著_捷克人民举行大选_实行亲苏与民主国家合作大企业已国有化_七十五万农民分得土地国内民族团结巩固.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_紧急动员起来保卫麦收保卫和平.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_紧急动员起来保卫麦收保卫和平.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_纽约邮报记者报导_蒋介石扩大内战_指示作战部队抢夺民粮.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_纽约邮报记者报导_蒋介石扩大内战_指示作战部队抢夺民粮.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_莒南区十余万群众_积极疏渠防止水患_苏皖区一分区筑堤近二百里.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_莒南区十余万群众_积极疏渠防止水患_苏皖区一分区筑堤近二百里.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_行政院_救己总署_大发财_河南饥民嗷嗷待哺_我解放区人民抗战有功救济无份.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_行政院_救己总署_大发财_河南饥民嗷嗷待哺_我解放区人民抗战有功救济无份.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_解决农民劳力缺乏困难_与民村创办劳力合作社_随时可以雇到短工，全村称便。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_解决农民劳力缺乏困难_与民村创办劳力合作社_随时可以雇到短工，全村称便。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_豫北晋南国民党军_开始出动武装抢麦_同蒲正太阎军抢粮日益猖獗.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_豫北晋南国民党军_开始出动武装抢麦_同蒲正太阎军抢粮日益猖獗.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-29_贝纳斯广播演说_论述巴黎外长会议经过表明今后美国外交态度_参议员泼贝尔抨击贝纳斯破坏外长会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-29_贝纳斯广播演说_论述巴黎外长会议经过表明今后美国外交态度_参议员泼贝尔抨击贝纳斯破坏外长会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_南京各报呼吁恢复和平谈判.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_南京各报呼吁恢复和平谈判.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_吉田反动内阁组成_日报预测新阁命运不长.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_吉田反动内阁组成_日报预测新阁命运不长.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_国民党军横行不法_北平路工屡遭殴辱被迫怠工湖北人民不堪勒索纷纷逃亡.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_国民党军横行不法_北平路工屡遭殴辱被迫怠工湖北人民不堪勒索纷纷逃亡.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_完成太行人民抗战史诗文艺杂志筹辑胜利专号.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_完成太行人民抗战史诗文艺杂志筹辑胜利专号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_推翻大汉奸恶霸不法地主统治_热河农民获得土地_大部农民尚无土地耕种仍须普遍贯彻减租运动.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_推翻大汉奸恶霸不法地主统治_热河农民获得土地_大部农民尚无土地耕种仍须普遍贯彻减租运动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_斯蒂芬逊任英驻华新使.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_斯蒂芬逊任英驻华新使.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_新型主雇关系_翻身后上升富农曹树芳对待雇工好_雇工劳动效率高，一个顶两个。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_新型主雇关系_翻身后上升富农曹树芳对待雇工好_雇工劳动效率高，一个顶两个。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_法国大选运动广泛展开法共提出三千候选人_巴黎五万人大会上，多列士指斥社会党内反动派分裂民主运动阴谋.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_法国大选运动广泛展开法共提出三千候选人_巴黎五万人大会上，多列士指斥社会党内反动派分裂民主运动阴谋.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_浙西勒索苛重民不聊生数万农民自动反奸清算_桐乡德清等县一片烽火喊声震天.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_浙西勒索苛重民不聊生数万农民自动反奸清算_桐乡德清等县一片烽火喊声震天.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_石塘人们的新生_新华社淮安通讯.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_石塘人们的新生_新华社淮安通讯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_苏皖人民纷纷集会游行_反对内战准备自卫.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_苏皖人民纷纷集会游行_反对内战准备自卫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_英苏同盟四周年_贝文电贺莫洛托夫_斯大林宴波政府代表团.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_英苏同盟四周年_贝文电贺莫洛托夫_斯大林宴波政府代表团.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_议会通过反劳工法案声中_美国四十万矿工重新举行大罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_议会通过反劳工法案声中_美国四十万矿工重新举行大罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_论美国大罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_论美国大罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_边府、中央局的机关生产.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_边府、中央局的机关生产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_邯郸中学选举模范学生.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_邯郸中学选举模范学生.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_长子群运进行四月贫苦农民大部上升_生产情绪高涨万余人参加互助组.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_长子群运进行四月贫苦农民大部上升_生产情绪高涨万余人参加互助组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_陕甘宁边区政府颁布_三年建设计划方案_加强经济文教建设，做到家家丰衣足食，提高干部、群众文化。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_陕甘宁边区政府颁布_三年建设计划方案_加强经济文教建设，做到家家丰衣足食，提高干部、群众文化。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-30_麦克鲁离沪返美.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-30_麦克鲁离沪返美.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_上党平汉放下武器之国民党军_百余校级军官返部_行前表示不再为反动派利用来打内战.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_上党平汉放下武器之国民党军_百余校级军官返部_行前表示不再为反动派利用来打内战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_京都大学生举行大会_反对吉田反对政府_要求教育制度民主化.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_京都大学生举行大会_反对吉田反对政府_要求教育制度民主化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_冀鲁豫工商局_筹设平原贸易公司.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_冀鲁豫工商局_筹设平原贸易公司.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_各地我军释放俘虏阎军继续疯狂抓丁.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_各地我军释放俘虏阎军继续疯狂抓丁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_国民党区特务横行贪污成风民穷财尽.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_国民党区特务横行贪污成风民穷财尽.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_太行新华日报新华分社号召通讯员_扩大新闻圈为本报写稿.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_太行新华日报新华分社号召通讯员_扩大新闻圈为本报写稿.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_岳北区的生产运动_新华社太岳分社通讯.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_岳北区的生产运动_新华社太岳分社通讯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_意大选行将举行_意共对选举深具信心能够满足人民的欲望.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_意大选行将举行_意共对选举深具信心能够满足人民的欲望.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_我忠实执行北平协议_永年救济胜利完成_城内伪军多方破坏深为群众愤恨.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_我忠实执行北平协议_永年救济胜利完成_城内伪军多方破坏深为群众愤恨.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_抗议！_我驻平陆联络组长横遭阎军非法逮捕.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_抗议！_我驻平陆联络组长横遭阎军非法逮捕.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_捷克大选胜利结束_捷共荣膺首席大党_英共总书记波立特盛赞捷共胜利_意义重大将影响于意法国会选举.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_捷克大选胜利结束_捷共荣膺首席大党_英共总书记波立特盛赞捷共胜利_意义重大将影响于意法国会选举.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_昆明民主周刊时评_呼吁制止东北内战_抨击国民党反动派违反协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_昆明民主周刊时评_呼吁制止东北内战_抨击国民党反动派违反协议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_本市民教馆展览_延安生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_本市民教馆展览_延安生活.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_来自湘、陕之东北还乡人员_经邯备受我方招待_临行感动地说：_今天才明白八路军对老百姓很好。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_来自湘、陕之东北还乡人员_经邯备受我方招待_临行感动地说：_今天才明白八路军对老百姓很好。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_杨主席致函上海联总_商讨边区救济问题_希望能将救济我区物资运邯统一分配.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_杨主席致函上海联总_商讨边区救济问题_希望能将救济我区物资运邯统一分配.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_永年伪军继续挑衅_美方代表证实深表遗憾我再要求解散城内伪军.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_永年伪军继续挑衅_美方代表证实深表遗憾我再要求解散城内伪军.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_永智开展反奸诉苦运动_抓住了广大群众的要求改变了贫雇佃孤立局面.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_永智开展反奸诉苦运动_抓住了广大群众的要求改变了贫雇佃孤立局面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_法国竞选运动展开_三大政党公开募集选举基金_社会党右派乞灵华盛顿.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_法国竞选运动展开_三大政党公开募集选举基金_社会党右派乞灵华盛顿.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_美人士论中国政局_美国应与苏联合作促成中国国内和平_北宁路一带美军不断增兵.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_美人士论中国政局_美国应与苏联合作促成中国国内和平_北宁路一带美军不断增兵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_美当局高压下_四十万矿工仍罢工_杜鲁门召集紧急会议.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_美当局高压下_四十万矿工仍罢工_杜鲁门召集紧急会议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_考察黄河故道美作家罗辛格等抵荷泽.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_考察黄河故道美作家罗辛格等抵荷泽.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_联总救济物资不敷分配晋察冀要求公平救济.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_联总救济物资不敷分配晋察冀要求公平救济.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_苏联原子能研究已获得大的进展_可实用于空运及工业.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_苏联原子能研究已获得大的进展_可实用于空运及工业.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_苏英同盟四周年_苏英外长相互电贺_希望两国合作共济时艰.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_苏英同盟四周年_苏英外长相互电贺_希望两国合作共济时艰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_英军留恋伊朗石油_迄今未自巴林岛撤退.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_英军留恋伊朗石油_迄今未自巴林岛撤退.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_英索伦煤矿工人二千五百人罢工.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_英索伦煤矿工人二千五百人罢工.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_莫斯科发表公报_苏波双方签订协定_帮助解决战后经济困难_苏以现金粮食贷供波兰.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_莫斯科发表公报_苏波双方签订协定_帮助解决战后经济困难_苏以现金粮食贷供波兰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_警惕！邢师二百人中毒.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_警惕！邢师二百人中毒.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1946年05月/1946-05-31_边区救济分会要求调查_石庄万袋面粉究作何用_如系救济永年伪军，则违背联总章则。.md" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/1946年05月/1946-05-31_边区救济分会要求调查_石庄万袋面粉究作何用_如系救济永年伪军，则违背联总章则。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rmrbCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/rmrb/rmrbCut.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +466,7 @@
     <session id="-2020514577">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.opened" value="3" />
@@ -20,11 +474,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="md" value="1" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
@@ -39,14 +495,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="193791872">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="38" />
+          <entry key="py" value="199" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="38" />
+          <entry key="Python" value="199" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rmrbCut.py">
+        <entry file="file://$PROJECT_DIR$/rmrb/rmrbCut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            <state relative-caret-position="323">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <folding>
+                <element signature="e#15#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="57">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -61,21 +562,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rmrb" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/rmrb/test.md" />
         <option value="$PROJECT_DIR$/rmrbCut.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/rmrb/rmrbCut.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2376" />
-    <option name="y" value="107" />
-    <option name="width" value="1465" />
-    <option name="height" value="971" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -83,32 +586,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="jiebaRmrb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiebaRmrb" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP-learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jiebaRmrb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiebaRmrb" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="rmrb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLP-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP-learning" type="462c0819:PsiDirectoryNode" />
               <item name="travelfile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jiebaRmrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../北航/ai-workspace/capsule-homework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\prepared\workspace\NLP-learning" />
+      <recent name="E:\prepared\workspace\NLP-learning\rmrb" />
+      <recent name="E:\prepared\workspace\jiebaRmrb\rmrb" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,9 +637,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.rmrbCut (1)">
+    <configuration name="rmrbCut (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rmrb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rmrb/rmrbCut.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rmrbCut" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="jiebaRmrb" />
+      <module name="NLP-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -135,7 +671,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rmrbCut.py" />
+      <option name="SCRIPT_NAME" value="E:\prepared\workspace\NLP-learning\rmrb\rmrbCut.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,8 +680,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.rmrbCut" />
+      <item itemvalue="Python.rmrbCut (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rmrbCut (1)" />
         <item itemvalue="Python.rmrbCut" />
       </list>
     </recent_temporary>
@@ -164,14 +705,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.181721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1838589" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41917503" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2664437" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2909699" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,10 +742,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rmrbCut.py">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmrb/rmrbCut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="323">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding>
+            <element signature="e#15#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
