@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3224e9d2-a370-4300-bb60-e6d171e4ef1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-1013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-1071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-788.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-58.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-58.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-58.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,40 +47,41 @@
     <session id="193791872">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.154" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="38" />
-          <entry key="py" value="2800" />
-          <entry key="txt" value="104" />
+          <entry key="py" value="3002" />
+          <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="38" />
-          <entry key="PLAIN_TEXT" value="104" />
-          <entry key="Python" value="2800" />
+          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="Python" value="3002" />
         </counts>
       </usages-collector>
     </session>
@@ -115,16 +113,25 @@
         <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1013.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1071.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1071.py">
+        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-788.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="52" />
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -209,6 +216,7 @@
         <option value="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-58.py" />
         <option value="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-1013.py" />
         <option value="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-1071.py" />
+        <option value="$PROJECT_DIR$/python-leetcode/leetcode-cn-788.py" />
       </list>
     </option>
   </component>
@@ -257,14 +265,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\prepared\workspace\NLP-learning\python-leetcode" />
+      <recent name="E:\prepared\workspace\NLP-learning\dataprocess-python-base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\prepared\workspace\NLP-learning\python-leetcode" />
       <recent name="E:\prepared\workspace\NLP-learning" />
       <recent name="E:\prepared\workspace\NLP-learning\rmrb" />
       <recent name="E:\prepared\workspace\jiebaRmrb\rmrb" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\prepared\workspace\NLP-learning\dataprocess-python-base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode-cn-1071">
+  <component name="RunManager" selected="Python.leetcode-cn-788">
     <configuration name="leetcode-cn-1013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rmrbCut (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode-cn-788" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,11 +360,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocess-rmrb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-leetcode/leetcode-cn-788.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.rmrbCut (2)" />
       <item itemvalue="Python.totalCut" />
       <item itemvalue="Python.leetcode-cn-58" />
       <item itemvalue="Python.leetcode-cn-1013" />
       <item itemvalue="Python.leetcode-cn-1071" />
+      <item itemvalue="Python.leetcode-cn-788" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leetcode-cn-788" />
         <item itemvalue="Python.leetcode-cn-1071" />
         <item itemvalue="Python.leetcode-cn-1013" />
         <item itemvalue="Python.leetcode-cn-58" />
         <item itemvalue="Python.totalCut" />
-        <item itemvalue="Python.rmrbCut (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -455,18 +464,26 @@
       <option name="project" value="LOCAL" />
       <updated>1583842336806</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="leetcode解题">
+      <created>1584005204273</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584005204273</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1940139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19668627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30211818" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30211818" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,7 +528,8 @@
     <MESSAGE value="前向最大匹配算法&#10;分词候选计算" />
     <MESSAGE value="leetcode-cn 58题暴力版本" />
     <MESSAGE value="截取解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="截取解法" />
+    <MESSAGE value="leetcode解题" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode解题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,6 +570,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/1946年05月/1946-05-15_为七百万人民请命.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -589,17 +614,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1013.py">
+    <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1071.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1071.py">
+    <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-788.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="52" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
