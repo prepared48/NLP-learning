@@ -69,7 +69,6 @@ def calc_tf(corpus):
         prob = freq / len(corpus)
         word_tf[word] = prob
         shannoEnt -= prob*log(prob, 2)
-    print(len(word_freq_dict))
     return word_tf, shannoEnt
 
 
