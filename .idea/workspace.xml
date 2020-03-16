@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3224e9d2-a370-4300-bb60-e6d171e4ef1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-50-easy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataprocess-rmrb/rmrbTF-IDF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataprocess-rmrb/tfidf.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,96 +50,52 @@
     <session id="193791872">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.154" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="10" />
+          <entry key="py" value="14" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
           <entry key="md" value="171" />
-          <entry key="py" value="4381" />
-          <entry key="txt" value="157" />
+          <entry key="py" value="6353" />
+          <entry key="txt" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="171" />
-          <entry key="PLAIN_TEXT" value="166" />
-          <entry key="Python" value="4381" />
+          <entry key="PLAIN_TEXT" value="173" />
+          <entry key="Python" value="6353" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-1071-easy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-788-easy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-438-medium.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/1946年05月/1946-05-15_为七百万人民请命.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/fmm-cut.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/totalCut.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -177,16 +135,67 @@
         <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-50-easy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py">
+        <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="145">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+                <marker date="1584367095582" expanded="true" signature="2261:2263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/rmrbTF-IDF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="99" column="24" lean-forward="true" selection-start-line="100" selection-end-line="101" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+                <marker date="1584367023531" expanded="true" signature="2431:2851" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/tfidf.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19382" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="775" column="4" selection-start-line="775" selection-start-column="4" selection-end-line="775" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/program/Anaconda/envs/py36/Lib/collections/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7223">
+              <caret line="465" column="6" selection-start-line="465" selection-start-column="6" selection-end-line="465" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -219,7 +228,6 @@
         <option value="$PROJECT_DIR$/rmrb/test.md" />
         <option value="$PROJECT_DIR$/rmrbCut.py" />
         <option value="$PROJECT_DIR$/rmrb/rmrbCut.py" />
-        <option value="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" />
         <option value="$PROJECT_DIR$/dataprocess-rmrb/fmm-cut.py" />
         <option value="$PROJECT_DIR$/dataprocess-rmrb/totalCut.py" />
         <option value="$PROJECT_DIR$/dataprocess-python-base/leetcode-cn-58.py" />
@@ -231,6 +239,8 @@
         <option value="$PROJECT_DIR$/python-leetcode/leetcode-cn-680-easy.py" />
         <option value="$PROJECT_DIR$/python-leetcode/leetcode-cn-50-easy.py" />
         <option value="$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py" />
+        <option value="$PROJECT_DIR$/dataprocess-rmrb/rmrbTF-IDF.py" />
+        <option value="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" />
       </list>
     </option>
   </component>
@@ -284,15 +294,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\prepared\workspace\NLP-learning\python-leetcode" />
-      <recent name="E:\prepared\workspace\NLP-learning\dataprocess-python-base" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\prepared\workspace\NLP-learning\python-leetcode" />
       <recent name="E:\prepared\workspace\NLP-learning" />
       <recent name="E:\prepared\workspace\NLP-learning\rmrb" />
       <recent name="E:\prepared\workspace\jiebaRmrb\rmrb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\prepared\workspace\NLP-learning\dataprocess-rmrb" />
+      <recent name="E:\prepared\workspace\NLP-learning\python-leetcode" />
+      <recent name="E:\prepared\workspace\NLP-learning\dataprocess-python-base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,49 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode-cn-50-easy">
-    <configuration name="leetcode-cn-1013" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NLP-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocess-python-base" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\prepared\workspace\NLP-learning\python-leetcode\leetcode-cn-1013-easy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="leetcode-cn-1071" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NLP-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocess-python-base" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\prepared\workspace\NLP-learning\python-leetcode\leetcode-cn-1071-easy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.rmrbTF-IDF">
     <configuration name="leetcode-cn-50-easy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,7 +361,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode-cn-788" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode-cn-724-easy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -404,7 +373,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\prepared\workspace\NLP-learning\python-leetcode\leetcode-cn-788-easy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rmrbCut" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocess-rmrb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rmrbTF-IDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocess-rmrb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocess-rmrb/rmrbTF-IDF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,19 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode-cn-1013" />
-      <item itemvalue="Python.leetcode-cn-1071" />
-      <item itemvalue="Python.leetcode-cn-788" />
       <item itemvalue="Python.leetcode-cn-680-easy" />
       <item itemvalue="Python.leetcode-cn-50-easy" />
+      <item itemvalue="Python.leetcode-cn-724-easy" />
+      <item itemvalue="Python.rmrbCut" />
+      <item itemvalue="Python.rmrbTF-IDF" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rmrbTF-IDF" />
+        <item itemvalue="Python.rmrbCut" />
+        <item itemvalue="Python.leetcode-cn-724-easy" />
         <item itemvalue="Python.leetcode-cn-50-easy" />
         <item itemvalue="Python.leetcode-cn-680-easy" />
-        <item itemvalue="Python.leetcode-cn-788" />
-        <item itemvalue="Python.leetcode-cn-1071" />
-        <item itemvalue="Python.leetcode-cn-1013" />
       </list>
     </recent_temporary>
   </component>
@@ -511,20 +522,34 @@
       <option name="project" value="LOCAL" />
       <updated>1584117495219</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="增加leetcode解题50">
+      <created>1584159981392</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584159981392</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加leetcode解724">
+      <created>1584169701753</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584169701753</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.202031" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20470336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22185062" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29877368" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33779263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3645485" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -572,7 +597,9 @@
     <MESSAGE value="leetcode解题788" />
     <MESSAGE value="增加readme说明；修改代码框架" />
     <MESSAGE value="增加leetcode解题" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加leetcode解题" />
+    <MESSAGE value="增加leetcode解题50" />
+    <MESSAGE value="增加leetcode解724" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加leetcode解724" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -592,8 +619,33 @@
           <line>17</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="idf[word]" language="Python" />
+        <watch expression="tf[word]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>tf[word]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>idf[word]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/test.md">
@@ -603,13 +655,6 @@
             <caret column="9" selection-start-column="9" selection-end-column="9" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -695,14 +740,55 @@
     <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-50-easy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python-leetcode/leetcode-cn-724-easy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/Anaconda/envs/py36/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7223">
+          <caret line="465" column="6" selection-start-line="465" selection-start-column="6" selection-end-line="465" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="775" column="4" selection-start-line="775" selection-start-column="4" selection-end-line="775" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/tfidf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19382" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/rmrbTF-IDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="99" column="24" lean-forward="true" selection-start-line="100" selection-end-line="101" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+            <marker date="1584367023531" expanded="true" signature="2431:2851" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocess-rmrb/rmrbCut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+            <marker date="1584367095582" expanded="true" signature="2261:2263" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
