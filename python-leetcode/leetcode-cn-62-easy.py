@@ -1,12 +1,25 @@
 from typing import List
 import time
 from datetime import timedelta
+import numpy as np
 
 
 class Solution:
 
+    def lastRemaining2(self, n: int, m: int) -> int:
+
+        return self.f(n, m)
+
+    def f(self, n, m):
+        if n == 0:
+            return 0
+        x = self.f(n - 1, m)
+        return (m + x) % n
+
+
     def lastRemaining1(self, n: int, m: int) -> int:
         '''
+        暴力破解，循环判断每次需要删除的元素
         超出规定的时间限制。时间复杂度为O(N^2)
         :param n:
         :param m:
@@ -37,10 +50,10 @@ class Solution:
         return list
 
 s = Solution()
-A = 70866
-B = 116922
+A = 5
+B = 3
 start_time = time.time()
-gcd = s.lastRemaining(A, B)
+gcd = s.lastRemaining2(A, B)
 end_time = time.time()
 time_dif = end_time - start_time
 print("耗时：" + str(timedelta(seconds=int(round(time_dif)))))
