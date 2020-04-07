@@ -77,14 +77,18 @@ class Solution:
                 smax = d[i]
         return int(smax)
 
-s = Solution()
-# A = [-2,1,-3,4,-1,2,1,-5,4]
-A = [1,2]
-gcd = s.maxSubArray2(A)
-print(gcd)
+# s = Solution()
+# # A = [-2,1,-3,4,-1,2,1,-5,4]
+# A = [1,2]
+# gcd = s.maxSubArray2(A)
+# print(gcd)
 
 # a = max(1, -math.inf)
 # print(a)
 
 # for i in range(10, 0, -1):
 #     print(i)
+
+A = []
+for i in range(0, 10) :
+    A[i] = i
